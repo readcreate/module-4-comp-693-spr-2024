@@ -1,3 +1,6 @@
+// This is Anshul Kumar's Module 4 assignment
+// for Comp 693 at SDCCE in spring 2024
+
 import path from 'path'
 import { fileURLToPath } from 'url'
 import webpack from 'webpack'
